@@ -4,7 +4,7 @@ navbar_name: "Zhuoer Shen"
 
 positions:
 - logo: /assets/images/badges/yale.svg
-  name: M.S. Student in Biostatistics (Data Science Pathway), Yale University
+  name: M.S. Student in Biostatistics, Yale University
 
 email: "zhuoer.shen@yale.edu"
 # cv_link: /assets/Zhuoer_Shen_CV.pdf
@@ -17,20 +17,19 @@ portrait_caption: ""
 
 short_bio: >-
   <p>
-    I am currently pursuing an M.S. in Biostatistics (Data Science Pathway) at Yale University, 
-    after graduating with honors from the School of Mathematical Sciences at Fudan University in June 2025 with a B.S. in Mathematics and Applied Mathematics. 
-    My research interests lie in <strong>statistical theory for machine learning</strong>, <strong>high-dimensional statistics</strong>, 
-    and <strong>generative and reasoning models</strong>—particularly in understanding how distributional structure and statistical assumptions govern the fundamental limits of estimation and learning.
+    I am an M.S. student in Biostatistics at Yale University. 
+    Previously, I graduated with honors from the School of Mathematical Sciences at Fudan University in June 2025 with a B.S. in Mathematics and Applied Mathematics. 
+    My research interests lie in <strong>statistical theory for machine learning</strong>, <strong>high-dimensional statistics</strong>, and <strong>generative and reasoning models</strong>.
   </p>
   <p>
-    I have been fortunate to conduct research with wonderful advisors across both theory and empirical machine learning. 
-    At Yale, I worked with <a href="https://chewisinho.github.io/" target="_blank">Prof. Sinho Chewi</a> and <a href="https://arampooladian.com/" target="_blank">Dr. Aram-Alexandre Pooladian</a> (Jan.–Sep. 2026) on the statistical theory of blind denoising in diffusion models, establishing minimax rates for single-sample noise-level estimation. 
-    I also collaborate with <a href="https://zijungao.github.io/" target="_blank">Prof. Zijun Gao</a> and <a href="https://yaozhang24.github.io/yaozhang.github.io/" target="_blank">Prof. Yao Zhang</a> (Feb. 2026–present) on evaluating generative models via subgroup-based Bias Transfer Learning, and with <a href="https://www.weijie-su.com/" target="_blank">Prof. Weijie Su</a> and <a href="https://lx10077.github.io/" target="_blank">Dr. Xiang Li</a> (Jun. 2026–present) on inference-time reliability in LLMs through selection, verification, and abstention. 
-    Previously at Fudan, I had the pleasure of working with <a href="http://kw.fudan.edu.cn/people/xiaoyanghua/" target="_blank">Prof. Yanghua Xiao</a> and <a href="https://orcid.org/0000-0002-4037-3130" target="_blank">Prof. Zhiqiang Wang</a> (Sep. 2024–May 2025) on two-stage training strategies for mathematical reasoning in LLMs.
+    During my undergraduate studies at Fudan, I worked on mathematical reasoning in large language models under the supervision of <a href="http://kw.fudan.edu.cn/people/xiaoyanghua/" target="_blank">Prof. Yanghua Xiao</a> and <a href="https://orcid.org/0000-0002-4037-3130" target="_blank">Prof. Zhiqiang Wang</a>. 
+    More recently, I have had the opportunity to collaborate with <a href="https://zijungao.github.io/" target="_blank">Prof. Zijun Gao</a> and <a href="https://yaozhang24.github.io/yaozhang.github.io/" target="_blank">Prof. Yao Zhang</a> on generative model evaluation. 
+    At Yale, I also completed a project on blind denoising in diffusion models under the guidance of <a href="https://chewisinho.github.io/" target="_blank">Prof. Sinho Chewi</a> and <a href="https://arampooladian.com/" target="_blank">Dr. Aram-Alexandre Pooladian</a>. 
+    Since Summer 2026, I have been working with <a href="https://www.weijie-su.com/" target="_blank">Prof. Weijie Su</a> and <a href="https://lx10077.github.io/" target="_blank">Dr. Xiang Li</a> on inference-time reliability in LLMs.
   </p>
   <p>
     <strong>I am currently seeking Fall 2027 Ph.D. positions in Statistics and Theoretical Machine Learning.</strong> 
-    Please feel free to reach out via email if you would like to discuss research!
+    Feel free to reach out via email if you would like to discuss research.
   </p>
 
 show_portrait_caption: false
@@ -39,7 +38,7 @@ education:
 - name: Yale University
   logo: /assets/images/badges/yale.svg
   position: >-
-    M.S. in Biostatistics, Data Science Pathway
+    M.S. in Biostatistics
   date: Aug. 2025 - May 2027 (Expected)
 - name: Fudan University
   logo: /assets/images/badges/fudan.svg
@@ -50,6 +49,4 @@ education:
 
 awards:
 - name: Academic Excellence Scholarship, Fudan University
-  date: 2021 - 2025
 - name: University Scholarship, Fudan University
-  date: 2021 - 2025
