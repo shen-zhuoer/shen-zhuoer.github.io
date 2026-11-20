@@ -150,3 +150,11 @@ div.lazy {
         transition: none;
     }
 }
+
+a {
+    color: #1e4b7a;
+}
+a:hover {
+    color: #0f2e4d;
+    text-decoration: underline;
+}
