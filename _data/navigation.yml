@@ -1,8 +1,8 @@
 pages:
 - name: Home
   url: /
-- name: CV
-  url: /assets/Zhuoer_Shen_CV.pdf
+#- name: CV
+#  url: /assets/Zhuoer_Shen_CV.pdf
 
 # 以后需要时，把下面对应两行前面的 # 删掉即可恢复：
 # - name: Publications
