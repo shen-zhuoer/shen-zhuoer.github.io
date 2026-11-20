@@ -5,6 +5,8 @@ selected:       true
 pub:            "Under review at ICLR 2027"
 authors:
   - Zhuoer Shen
+abstract: >-
+  We study noise-level estimation from a single high-dimensional observation with a known signal distribution, establishing minimax rates under both low intrinsic dimensionality and strong log-concavity alongside optimal norm-based and maximum-likelihood estimators.
 links:
   arXiv: https://arxiv.org/abs/2609.33008
 ---
