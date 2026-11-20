@@ -4,29 +4,33 @@ navbar_name: "Zhuoer Shen"
 
 positions:
 - logo: /assets/images/badges/yale.svg
-  name: M.S. Student in Data Science & Biostatistics, Yale University
+  name: M.S. Student in Biostatistics (Data Science Pathway), Yale University
 
 email: "zhuoer.shen@yale.edu"
 # cv_link: /assets/Zhuoer_Shen_CV.pdf
 github: shen-zhuoer
-# gscholar: your_google_scholar_id   # 有的话取消注释并填 ID
-# linkedin: your_linkedin_username   # 有的话取消注释并填用户名
+linkedin: zhuoer-shen-07075735a
+# gscholar: your_google_scholar_id
 
-portrait_url: /assets/images/photos/portrait.jpg   # 挑好照片传到 photos 文件夹后，把这里改成新文件名即可
+portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: ""
 
 short_bio: >-
   <p>
-    I am currently an M.S. student in Data Science and Biostatistics at Yale University. 
-    Previously, I received my B.S. in Mathematics and Applied Mathematics from Fudan University in 2025.
+    I am currently pursuing an M.S. in Biostatistics (Data Science Pathway) at Yale University, 
+    after graduating with honors from the School of Mathematical Sciences at Fudan University in June 2025 with a B.S. in Mathematics and Applied Mathematics. 
+    My research interests lie in <strong>statistical theory for machine learning</strong>, <strong>high-dimensional statistics</strong>, 
+    and <strong>generative and reasoning models</strong>—particularly in understanding how distributional structure and statistical assumptions govern the fundamental limits of estimation and learning.
   </p>
   <p>
-    My research interests lie in <strong>theoretical machine learning</strong>, <strong>statistical learning theory</strong>, 
-    <strong>high-dimensional statistical inference</strong>, and <strong>stochastic sampling &amp; optimal transport</strong>. 
-    I am particularly interested in understanding the mathematical foundations, identifiability, and asymptotic guarantees of modern probabilistic and generative models.
+    I have been fortunate to conduct research with wonderful advisors across both theory and empirical machine learning. 
+    At Yale, I worked with <a href="https://chewisinho.github.io/" target="_blank">Prof. Sinho Chewi</a> and <a href="https://arampooladian.com/" target="_blank">Dr. Aram-Alexandre Pooladian</a> (Jan.–Sep. 2026) on the statistical theory of blind denoising in diffusion models, establishing minimax rates for single-sample noise-level estimation. 
+    I also collaborate with <a href="https://zijungao.github.io/" target="_blank">Prof. Zijun Gao</a> and <a href="https://yaozhang24.github.io/yaozhang.github.io/" target="_blank">Prof. Yao Zhang</a> (Feb. 2026–present) on evaluating generative models via subgroup-based Bias Transfer Learning, and with <a href="https://www.weijie-su.com/" target="_blank">Prof. Weijie Su</a> and <a href="https://lx10077.github.io/" target="_blank">Dr. Xiang Li</a> (Jun. 2026–present) on inference-time reliability in LLMs through selection, verification, and abstention. 
+    Previously at Fudan, I had the pleasure of working with <a href="http://kw.fudan.edu.cn/people/xiaoyanghua/" target="_blank">Prof. Yanghua Xiao</a> and <a href="https://orcid.org/0000-0002-4037-3130" target="_blank">Prof. Zhiqiang Wang</a> (Sep. 2024–May 2025) on two-stage training strategies for mathematical reasoning in LLMs.
   </p>
   <p>
-    <em>I am currently applying for Fall 2027 Ph.D. programs in Statistics and Theoretical Machine Learning.</em>
+    <strong>I am currently seeking Fall 2027 Ph.D. positions in Statistics and Theoretical Machine Learning.</strong> 
+    Please feel free to reach out via email if you would like to discuss research!
   </p>
 
 show_portrait_caption: false
@@ -35,9 +39,8 @@ education:
 - name: Yale University
   logo: /assets/images/badges/yale.svg
   position: >-
-    Department of Statistics and Data Science / Biostatistics<br/>
-    M.S. in Data Science and Biostatistics
-  date: Sep. 2025 - May 2027 (Expected)
+    M.S. in Biostatistics, Data Science Pathway
+  date: Aug. 2025 - May 2027 (Expected)
 - name: Fudan University
   logo: /assets/images/badges/fudan.svg
   position: >-
@@ -45,9 +48,8 @@ education:
     B.S. in Mathematics and Applied Mathematics
   date: Sep. 2021 - Jun. 2025
 
-# 如果想在右下角展示获奖经历，把下面取消注释并填入你 CV 上的奖项；如果不需要，保持注释即可
-# awards:
-# - name: Scholarship / Award Name 1
-#   date: 2025
-# - name: Scholarship / Award Name 2
-#   date: 2024
+awards:
+- name: Academic Excellence Scholarship, Fudan University
+  date: 2021 - 2025
+- name: University Scholarship, Fudan University
+  date: 2021 - 2025
