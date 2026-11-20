@@ -158,3 +158,12 @@ a:hover {
     color: #0f2e4d;
     text-decoration: underline;
 }
+
+body {
+    color: #333333;
+    line-height: 1.7;
+}
+
+.text-profile-bio p {
+    margin-bottom: 1.1rem;
+}
